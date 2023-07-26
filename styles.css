@@ -1,0 +1,97 @@
+/* Add CSS here */
+.body-container{
+  background-color:#fef9fc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  width:100vw;
+  gap:30px;
+  }
+  .container-1{
+  height: 420px;
+  width: 20%;
+  background-color:white;
+  box-shadow:0 10px 10px rgb(182, 169, 169);
+  flex-direction: column;
+  display: flex;
+  border-radius:0.4em;
+  }
+  .container-2:hover{
+  box-shadow: -21px -21px 0px -15px rgba(16,12,237,0.54);
+  -webkit-box-shadow: -21px -21px 0px -15px rgba(16,12,237,0.54);
+  -moz-box-shadow: -21px -21px 0px -15px rgba(16,12,237,0.54);
+  }
+  .container-2{
+  height: 170px;
+  width: 20%;
+  background-color:white;
+  box-shadow:0 10px 10px rgb(182, 169, 169);
+  border-radius:0.4em;
+  }
+  .container-3{
+  height: 240px;
+  width: 20%;
+  background-color:white;
+  box-shadow:0 10px 10px rgb(182, 169, 169);
+  display: flex;
+  flex-direction: column;
+  border-radius:0.4em;
+  }
+  h5{
+  color: white;
+  font-size: 10px;
+  }
+  .btn{
+  margin-left: 20px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  padding:5px;
+  border-radius:0.3em;
+  }
+  .cards{
+  margin: 20px;
+  display: flex;
+  gap:10px;
+  line-height:10px;
+  }
+  .cards:hover{
+  box-shadow: 2px 3px 16px 11px rgba(16,12,237,0.23);
+  -webkit-box-shadow: 2px 3px 16px 11px rgba(16,12,237,0.23);
+  -moz-box-shadow: 2px 3px 16px 11px rgba(16,12,237,0.23);
+  padding: 10px;
+  }
+  h2{
+  font-size:12px;
+  }
+  h3{
+  font-size:10px;
+  }
+  span{
+  font-size: 10px;
+  }
+  h1{
+  font-size:9px;
+  }
+  .icon-1{
+  display: flex;
+  margin: 10px;
+  gap:10px;
+  }
+  .icon-2{
+  display: flex;
+  margin: 10px;
+  gap:60px;
+  }
+  .icon-3{
+  display: flex;
+  margin-left:5px;
+  padding-top:15px;
+  }
+  .icon-4{
+  padding-left:240px;
+  margin-top:-15px;
+  }
